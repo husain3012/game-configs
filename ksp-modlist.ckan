@@ -4,7 +4,7 @@
     "name": "installed-portable",
     "abstract": "A list of modules installed on the portable KSP instance",
     "author": "Husain",
-    "version": "2025.08.19.05.52.45",
+    "version": "2025.08.21.02.37.24",
     "ksp_version_min": "1.11",
     "ksp_version_max": "1.12",
     "license": "unknown",
@@ -59,6 +59,10 @@
         },
         {
             "name": "Scatterer-sunflare",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScale",
             "suppress_recommendations": true
         },
         {
@@ -290,7 +294,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScale",
+            "name": "TweakScaleCompanion",
             "suppress_recommendations": true
         },
         {
@@ -298,6 +302,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-08-19T17:52:45.470307Z",
+    "release_date": "2025-08-21T14:37:24.4208293Z",
     "kind": "metapackage"
 }
